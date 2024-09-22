@@ -1,17 +1,17 @@
 # 💫 About Me:
 <div style="display: flex; ">
   <div style="flex: 1;">
-    👋 Hello, I'm [Muzammal Ansari]. I'm a passionate MERN stack developer with a love for building robust and scalable web applications. My journey in the world of coding began with a fascination for creating seamless user experiences, and I've been hooked ever since.
+    👋 Hello, I'm [Muzammal Ansari]. I'm a passionate Web developer with a love for building robust and scalable web applications. My journey in the world of coding began with a fascination for creating seamless user experiences, and I've been hooked ever since.
     
     🚀 What I do:
     - Frontend Development: Crafting beautiful and responsive user interfaces using React.js.
     - Backend Development: Building scalable and efficient APIs with Node.js and Express.js.
     - Database: Designing and optimizing MongoDB databases for performance and scalability.
-    - Full Stack Magic: Bringing it all together to create end-to-end MERN stack applications.
+    - Full Stack Magic: Bringing it all together to create end-to-end Web applications.
   </div>
-<!--   <div style="flex: 1;">
+  <div style="flex: 1;">
     <img src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" alt="Your Image" width="400">
-  </div> -->
+  </div>
 </div>
 
 # 💻 Tech Stack:
